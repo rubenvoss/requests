@@ -1,3 +1,5 @@
+#!/Users/ruben/code/requests/venv/bin/python
+# python3.11 -m venv venv --copies
 import requests
 import sys
 
