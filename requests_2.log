@@ -1,0 +1,229 @@
+2023-03-26 16:13:59,783 - INFO - heheh
+2023-03-26 16:14:08,661 - INFO - xyz
+2023-03-26 16:38:45,728 - INFO - Script finished
+2023-03-26 16:39:02,502 - INFO - No connection adapters were found for 'htts://www.w3schools.com/xm/plant_catalog.xml'
+2023-03-26 16:40:10,991 - INFO - Script finished
+2023-03-26 16:40:36,386 - INFO - Script finished
+2023-03-26 16:40:47,749 - INFO - {'COMMON': 'Bloodroot', 'BOTANICAL': 'Sanguinaria canadensis', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.44', 'AVAILABILITY': '031599'}
+2023-03-26 16:40:47,749 - INFO - {'COMMON': 'Columbine', 'BOTANICAL': 'Aquilegia canadensis', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.37', 'AVAILABILITY': '030699'}
+2023-03-26 16:40:47,749 - INFO - {'COMMON': 'Marsh Marigold', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Sunny', 'PRICE': '$6.81', 'AVAILABILITY': '051799'}
+2023-03-26 16:40:47,749 - INFO - {'COMMON': 'Cowslip', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.90', 'AVAILABILITY': '030699'}
+2023-03-26 16:40:47,749 - INFO - {'COMMON': "Dutchman's-Breeches", 'BOTANICAL': 'Dicentra cucullaria', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.44', 'AVAILABILITY': '012099'}
+2023-03-26 16:40:47,749 - INFO - {'COMMON': 'Ginger, Wild', 'BOTANICAL': 'Asarum canadense', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.03', 'AVAILABILITY': '041899'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Hepatica', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$4.45', 'AVAILABILITY': '012699'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Liverleaf', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.99', 'AVAILABILITY': '010299'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Jack-In-The-Pulpit', 'BOTANICAL': 'Arisaema triphyllum', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.23', 'AVAILABILITY': '020199'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Mayapple', 'BOTANICAL': 'Podophyllum peltatum', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.98', 'AVAILABILITY': '060599'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Phlox, Woodland', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$2.80', 'AVAILABILITY': '012299'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Phlox, Blue', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$5.59', 'AVAILABILITY': '021699'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Spring-Beauty', 'BOTANICAL': 'Claytonia Virginica', 'ZONE': '7', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.59', 'AVAILABILITY': '020199'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Trillium', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.90', 'AVAILABILITY': '042999'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Wake Robin', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.20', 'AVAILABILITY': '022199'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Violet, Dog-Tooth', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.04', 'AVAILABILITY': '020199'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Trout Lily', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$6.94', 'AVAILABILITY': '032499'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': "Adder's-Tongue", 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.58', 'AVAILABILITY': '041399'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Anemone', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.86', 'AVAILABILITY': '122698'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Grecian Windflower', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.16', 'AVAILABILITY': '071099'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Bee Balm', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$4.59', 'AVAILABILITY': '050399'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Bergamot', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$7.16', 'AVAILABILITY': '042799'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Black-Eyed Susan', 'BOTANICAL': 'Rudbeckia hirta', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$9.80', 'AVAILABILITY': '061899'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Buttercup', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$2.57', 'AVAILABILITY': '061099'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Crowfoot', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.34', 'AVAILABILITY': '040399'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Butterfly Weed', 'BOTANICAL': 'Asclepias tuberosa', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$2.78', 'AVAILABILITY': '063099'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Cinquefoil', 'BOTANICAL': 'Potentilla', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$7.06', 'AVAILABILITY': '052599'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Primrose', 'BOTANICAL': 'Oenothera', 'ZONE': '3 - 5', 'LIGHT': 'Sunny', 'PRICE': '$6.56', 'AVAILABILITY': '013099'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$7.81', 'AVAILABILITY': '051899'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Blue Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$8.56', 'AVAILABILITY': '050299'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': "Jacob's Ladder", 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$9.26', 'AVAILABILITY': '022199'}
+2023-03-26 16:40:47,750 - INFO - {'COMMON': 'Greek Valerian', 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$4.36', 'AVAILABILITY': '071499'}
+2023-03-26 16:40:47,751 - INFO - {'COMMON': 'California Poppy', 'BOTANICAL': 'Eschscholzia californica', 'ZONE': 'Annual', 'LIGHT': 'Sun', 'PRICE': '$7.89', 'AVAILABILITY': '032799'}
+2023-03-26 16:40:47,751 - INFO - {'COMMON': 'Shooting Star', 'BOTANICAL': 'Dodecatheon', 'ZONE': 'Annual', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.60', 'AVAILABILITY': '051399'}
+2023-03-26 16:40:47,751 - INFO - {'COMMON': 'Snakeroot', 'BOTANICAL': 'Cimicifuga', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$5.63', 'AVAILABILITY': '071199'}
+2023-03-26 16:40:47,751 - INFO - {'COMMON': 'Cardinal Flower', 'BOTANICAL': 'Lobelia cardinalis', 'ZONE': '2', 'LIGHT': 'Shade', 'PRICE': '$3.02', 'AVAILABILITY': '022299'}
+2023-03-26 16:40:47,751 - INFO - Script finished
+2023-03-26 16:41:48,292 - DEBUG - {'COMMON': 'Bloodroot', 'BOTANICAL': 'Sanguinaria canadensis', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.44', 'AVAILABILITY': '031599'}
+2023-03-26 16:41:48,292 - DEBUG - {'COMMON': 'Columbine', 'BOTANICAL': 'Aquilegia canadensis', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.37', 'AVAILABILITY': '030699'}
+2023-03-26 16:41:48,292 - DEBUG - {'COMMON': 'Marsh Marigold', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Sunny', 'PRICE': '$6.81', 'AVAILABILITY': '051799'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Cowslip', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.90', 'AVAILABILITY': '030699'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': "Dutchman's-Breeches", 'BOTANICAL': 'Dicentra cucullaria', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.44', 'AVAILABILITY': '012099'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Ginger, Wild', 'BOTANICAL': 'Asarum canadense', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.03', 'AVAILABILITY': '041899'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Hepatica', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$4.45', 'AVAILABILITY': '012699'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Liverleaf', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.99', 'AVAILABILITY': '010299'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Jack-In-The-Pulpit', 'BOTANICAL': 'Arisaema triphyllum', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.23', 'AVAILABILITY': '020199'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Mayapple', 'BOTANICAL': 'Podophyllum peltatum', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.98', 'AVAILABILITY': '060599'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Phlox, Woodland', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$2.80', 'AVAILABILITY': '012299'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Phlox, Blue', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$5.59', 'AVAILABILITY': '021699'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Spring-Beauty', 'BOTANICAL': 'Claytonia Virginica', 'ZONE': '7', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.59', 'AVAILABILITY': '020199'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Trillium', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.90', 'AVAILABILITY': '042999'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Wake Robin', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.20', 'AVAILABILITY': '022199'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Violet, Dog-Tooth', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.04', 'AVAILABILITY': '020199'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Trout Lily', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$6.94', 'AVAILABILITY': '032499'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': "Adder's-Tongue", 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.58', 'AVAILABILITY': '041399'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Anemone', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.86', 'AVAILABILITY': '122698'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Grecian Windflower', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.16', 'AVAILABILITY': '071099'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Bee Balm', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$4.59', 'AVAILABILITY': '050399'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Bergamot', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$7.16', 'AVAILABILITY': '042799'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Black-Eyed Susan', 'BOTANICAL': 'Rudbeckia hirta', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$9.80', 'AVAILABILITY': '061899'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Buttercup', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$2.57', 'AVAILABILITY': '061099'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Crowfoot', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.34', 'AVAILABILITY': '040399'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Butterfly Weed', 'BOTANICAL': 'Asclepias tuberosa', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$2.78', 'AVAILABILITY': '063099'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Cinquefoil', 'BOTANICAL': 'Potentilla', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$7.06', 'AVAILABILITY': '052599'}
+2023-03-26 16:41:48,293 - DEBUG - {'COMMON': 'Primrose', 'BOTANICAL': 'Oenothera', 'ZONE': '3 - 5', 'LIGHT': 'Sunny', 'PRICE': '$6.56', 'AVAILABILITY': '013099'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$7.81', 'AVAILABILITY': '051899'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Blue Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$8.56', 'AVAILABILITY': '050299'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': "Jacob's Ladder", 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$9.26', 'AVAILABILITY': '022199'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Greek Valerian', 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$4.36', 'AVAILABILITY': '071499'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'California Poppy', 'BOTANICAL': 'Eschscholzia californica', 'ZONE': 'Annual', 'LIGHT': 'Sun', 'PRICE': '$7.89', 'AVAILABILITY': '032799'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Shooting Star', 'BOTANICAL': 'Dodecatheon', 'ZONE': 'Annual', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.60', 'AVAILABILITY': '051399'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Snakeroot', 'BOTANICAL': 'Cimicifuga', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$5.63', 'AVAILABILITY': '071199'}
+2023-03-26 16:41:48,294 - DEBUG - {'COMMON': 'Cardinal Flower', 'BOTANICAL': 'Lobelia cardinalis', 'ZONE': '2', 'LIGHT': 'Shade', 'PRICE': '$3.02', 'AVAILABILITY': '022299'}
+2023-03-26 16:41:48,294 - INFO - Script finished
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Bloodroot', 'BOTANICAL': 'Sanguinaria canadensis', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.44', 'AVAILABILITY': '031599'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Columbine', 'BOTANICAL': 'Aquilegia canadensis', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.37', 'AVAILABILITY': '030699'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Marsh Marigold', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Sunny', 'PRICE': '$6.81', 'AVAILABILITY': '051799'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Cowslip', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.90', 'AVAILABILITY': '030699'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': "Dutchman's-Breeches", 'BOTANICAL': 'Dicentra cucullaria', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.44', 'AVAILABILITY': '012099'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Ginger, Wild', 'BOTANICAL': 'Asarum canadense', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.03', 'AVAILABILITY': '041899'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Hepatica', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$4.45', 'AVAILABILITY': '012699'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Liverleaf', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.99', 'AVAILABILITY': '010299'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Jack-In-The-Pulpit', 'BOTANICAL': 'Arisaema triphyllum', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.23', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Mayapple', 'BOTANICAL': 'Podophyllum peltatum', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.98', 'AVAILABILITY': '060599'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Phlox, Woodland', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$2.80', 'AVAILABILITY': '012299'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Phlox, Blue', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$5.59', 'AVAILABILITY': '021699'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Spring-Beauty', 'BOTANICAL': 'Claytonia Virginica', 'ZONE': '7', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.59', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Trillium', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.90', 'AVAILABILITY': '042999'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Wake Robin', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.20', 'AVAILABILITY': '022199'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Violet, Dog-Tooth', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.04', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Trout Lily', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$6.94', 'AVAILABILITY': '032499'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': "Adder's-Tongue", 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.58', 'AVAILABILITY': '041399'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Anemone', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.86', 'AVAILABILITY': '122698'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Grecian Windflower', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.16', 'AVAILABILITY': '071099'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Bee Balm', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$4.59', 'AVAILABILITY': '050399'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Bergamot', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$7.16', 'AVAILABILITY': '042799'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Black-Eyed Susan', 'BOTANICAL': 'Rudbeckia hirta', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$9.80', 'AVAILABILITY': '061899'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Buttercup', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$2.57', 'AVAILABILITY': '061099'}
+2023-03-26 16:43:11,520 - DEBUG - {'COMMON': 'Crowfoot', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.34', 'AVAILABILITY': '040399'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Butterfly Weed', 'BOTANICAL': 'Asclepias tuberosa', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$2.78', 'AVAILABILITY': '063099'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Cinquefoil', 'BOTANICAL': 'Potentilla', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$7.06', 'AVAILABILITY': '052599'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Primrose', 'BOTANICAL': 'Oenothera', 'ZONE': '3 - 5', 'LIGHT': 'Sunny', 'PRICE': '$6.56', 'AVAILABILITY': '013099'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$7.81', 'AVAILABILITY': '051899'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Blue Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$8.56', 'AVAILABILITY': '050299'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': "Jacob's Ladder", 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$9.26', 'AVAILABILITY': '022199'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Greek Valerian', 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$4.36', 'AVAILABILITY': '071499'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'California Poppy', 'BOTANICAL': 'Eschscholzia californica', 'ZONE': 'Annual', 'LIGHT': 'Sun', 'PRICE': '$7.89', 'AVAILABILITY': '032799'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Shooting Star', 'BOTANICAL': 'Dodecatheon', 'ZONE': 'Annual', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.60', 'AVAILABILITY': '051399'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Snakeroot', 'BOTANICAL': 'Cimicifuga', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$5.63', 'AVAILABILITY': '071199'}
+2023-03-26 16:43:11,521 - DEBUG - {'COMMON': 'Cardinal Flower', 'BOTANICAL': 'Lobelia cardinalis', 'ZONE': '2', 'LIGHT': 'Shade', 'PRICE': '$3.02', 'AVAILABILITY': '022299'}
+2023-03-26 16:43:11,521 - INFO - Script finished
+2023-03-26 16:43:26,599 - DEBUG - {'COMMON': 'Bloodroot', 'BOTANICAL': 'Sanguinaria canadensis', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.44', 'AVAILABILITY': '031599'}
+2023-03-26 16:43:26,599 - DEBUG - {'COMMON': 'Columbine', 'BOTANICAL': 'Aquilegia canadensis', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.37', 'AVAILABILITY': '030699'}
+2023-03-26 16:43:26,599 - DEBUG - {'COMMON': 'Marsh Marigold', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Sunny', 'PRICE': '$6.81', 'AVAILABILITY': '051799'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Cowslip', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.90', 'AVAILABILITY': '030699'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': "Dutchman's-Breeches", 'BOTANICAL': 'Dicentra cucullaria', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.44', 'AVAILABILITY': '012099'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Ginger, Wild', 'BOTANICAL': 'Asarum canadense', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.03', 'AVAILABILITY': '041899'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Hepatica', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$4.45', 'AVAILABILITY': '012699'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Liverleaf', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.99', 'AVAILABILITY': '010299'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Jack-In-The-Pulpit', 'BOTANICAL': 'Arisaema triphyllum', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.23', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Mayapple', 'BOTANICAL': 'Podophyllum peltatum', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.98', 'AVAILABILITY': '060599'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Phlox, Woodland', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$2.80', 'AVAILABILITY': '012299'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Phlox, Blue', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$5.59', 'AVAILABILITY': '021699'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Spring-Beauty', 'BOTANICAL': 'Claytonia Virginica', 'ZONE': '7', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.59', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Trillium', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.90', 'AVAILABILITY': '042999'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Wake Robin', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.20', 'AVAILABILITY': '022199'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Violet, Dog-Tooth', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.04', 'AVAILABILITY': '020199'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Trout Lily', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$6.94', 'AVAILABILITY': '032499'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': "Adder's-Tongue", 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.58', 'AVAILABILITY': '041399'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Anemone', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.86', 'AVAILABILITY': '122698'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Grecian Windflower', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.16', 'AVAILABILITY': '071099'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Bee Balm', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$4.59', 'AVAILABILITY': '050399'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Bergamot', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$7.16', 'AVAILABILITY': '042799'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Black-Eyed Susan', 'BOTANICAL': 'Rudbeckia hirta', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$9.80', 'AVAILABILITY': '061899'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Buttercup', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$2.57', 'AVAILABILITY': '061099'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Crowfoot', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.34', 'AVAILABILITY': '040399'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Butterfly Weed', 'BOTANICAL': 'Asclepias tuberosa', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$2.78', 'AVAILABILITY': '063099'}
+2023-03-26 16:43:26,600 - DEBUG - {'COMMON': 'Cinquefoil', 'BOTANICAL': 'Potentilla', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$7.06', 'AVAILABILITY': '052599'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Primrose', 'BOTANICAL': 'Oenothera', 'ZONE': '3 - 5', 'LIGHT': 'Sunny', 'PRICE': '$6.56', 'AVAILABILITY': '013099'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$7.81', 'AVAILABILITY': '051899'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Blue Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$8.56', 'AVAILABILITY': '050299'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': "Jacob's Ladder", 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$9.26', 'AVAILABILITY': '022199'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Greek Valerian', 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$4.36', 'AVAILABILITY': '071499'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'California Poppy', 'BOTANICAL': 'Eschscholzia californica', 'ZONE': 'Annual', 'LIGHT': 'Sun', 'PRICE': '$7.89', 'AVAILABILITY': '032799'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Shooting Star', 'BOTANICAL': 'Dodecatheon', 'ZONE': 'Annual', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.60', 'AVAILABILITY': '051399'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Snakeroot', 'BOTANICAL': 'Cimicifuga', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$5.63', 'AVAILABILITY': '071199'}
+2023-03-26 16:43:26,601 - DEBUG - {'COMMON': 'Cardinal Flower', 'BOTANICAL': 'Lobelia cardinalis', 'ZONE': '2', 'LIGHT': 'Shade', 'PRICE': '$3.02', 'AVAILABILITY': '022299'}
+2023-03-26 16:43:26,601 - INFO - Script finished
+2023-03-26 16:44:03,521 - ERROR - syntax error: line 1, column 0
+2023-03-26 16:47:01,211 - ERROR - syntax error: line 1, column 0
+2023-03-26 16:47:01,213 - ERROR - syntax error: line 1, column 0
+Traceback (most recent call last):
+  File "/Users/ruben/code/requests/app.py", line 14, in <module>
+    dict = xmltodict.parse(r.text)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ruben/code/requests/venv/lib/python3.11/site-packages/xmltodict.py", line 378, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+2023-03-26 16:47:49,595 - ERROR - syntax error: line 1, column 0
+2023-03-26 16:47:49,597 - ERROR - syntax error: line 1, column 0
+Traceback (most recent call last):
+  File "/Users/ruben/code/requests/app.py", line 13, in <module>
+    dict = xmltodict.parse(r.text)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ruben/code/requests/venv/lib/python3.11/site-packages/xmltodict.py", line 378, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+2023-03-26 16:48:15,492 - ERROR - syntax error: line 1, column 0
+2023-03-26 16:48:15,493 - ERROR - syntax error: line 1, column 0
+Traceback (most recent call last):
+  File "/Users/ruben/code/requests/app.py", line 13, in <module>
+    dict = xmltodict.parse(r.text)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ruben/code/requests/venv/lib/python3.11/site-packages/xmltodict.py", line 378, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+2023-03-26 16:48:15,493 - INFO - Script finished
+2023-03-26 16:48:54,754 - ERROR - syntax error: line 1, column 0
+2023-03-26 16:48:54,756 - ERROR - syntax error: line 1, column 0
+Traceback (most recent call last):
+  File "/Users/ruben/code/requests/app.py", line 13, in <module>
+    dict = xmltodict.parse(r.text)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ruben/code/requests/venv/lib/python3.11/site-packages/xmltodict.py", line 378, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: syntax error: line 1, column 0
+2023-03-26 16:51:15,315 - DEBUG - {'COMMON': 'Bloodroot', 'BOTANICAL': 'Sanguinaria canadensis', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.44', 'AVAILABILITY': '031599'}
+2023-03-26 16:51:15,315 - DEBUG - {'COMMON': 'Columbine', 'BOTANICAL': 'Aquilegia canadensis', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.37', 'AVAILABILITY': '030699'}
+2023-03-26 16:51:15,315 - DEBUG - {'COMMON': 'Marsh Marigold', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Sunny', 'PRICE': '$6.81', 'AVAILABILITY': '051799'}
+2023-03-26 16:51:15,315 - DEBUG - {'COMMON': 'Cowslip', 'BOTANICAL': 'Caltha palustris', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.90', 'AVAILABILITY': '030699'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': "Dutchman's-Breeches", 'BOTANICAL': 'Dicentra cucullaria', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.44', 'AVAILABILITY': '012099'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Ginger, Wild', 'BOTANICAL': 'Asarum canadense', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.03', 'AVAILABILITY': '041899'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Hepatica', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$4.45', 'AVAILABILITY': '012699'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Liverleaf', 'BOTANICAL': 'Hepatica americana', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.99', 'AVAILABILITY': '010299'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Jack-In-The-Pulpit', 'BOTANICAL': 'Arisaema triphyllum', 'ZONE': '4', 'LIGHT': 'Mostly Shady', 'PRICE': '$3.23', 'AVAILABILITY': '020199'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Mayapple', 'BOTANICAL': 'Podophyllum peltatum', 'ZONE': '3', 'LIGHT': 'Mostly Shady', 'PRICE': '$2.98', 'AVAILABILITY': '060599'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Phlox, Woodland', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$2.80', 'AVAILABILITY': '012299'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Phlox, Blue', 'BOTANICAL': 'Phlox divaricata', 'ZONE': '3', 'LIGHT': 'Sun or Shade', 'PRICE': '$5.59', 'AVAILABILITY': '021699'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Spring-Beauty', 'BOTANICAL': 'Claytonia Virginica', 'ZONE': '7', 'LIGHT': 'Mostly Shady', 'PRICE': '$6.59', 'AVAILABILITY': '020199'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Trillium', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.90', 'AVAILABILITY': '042999'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Wake Robin', 'BOTANICAL': 'Trillium grandiflorum', 'ZONE': '5', 'LIGHT': 'Sun or Shade', 'PRICE': '$3.20', 'AVAILABILITY': '022199'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Violet, Dog-Tooth', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.04', 'AVAILABILITY': '020199'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Trout Lily', 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$6.94', 'AVAILABILITY': '032499'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': "Adder's-Tongue", 'BOTANICAL': 'Erythronium americanum', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.58', 'AVAILABILITY': '041399'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Anemone', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.86', 'AVAILABILITY': '122698'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Grecian Windflower', 'BOTANICAL': 'Anemone blanda', 'ZONE': '6', 'LIGHT': 'Mostly Shady', 'PRICE': '$9.16', 'AVAILABILITY': '071099'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Bee Balm', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$4.59', 'AVAILABILITY': '050399'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Bergamot', 'BOTANICAL': 'Monarda didyma', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$7.16', 'AVAILABILITY': '042799'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Black-Eyed Susan', 'BOTANICAL': 'Rudbeckia hirta', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$9.80', 'AVAILABILITY': '061899'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Buttercup', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$2.57', 'AVAILABILITY': '061099'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Crowfoot', 'BOTANICAL': 'Ranunculus', 'ZONE': '4', 'LIGHT': 'Shade', 'PRICE': '$9.34', 'AVAILABILITY': '040399'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Butterfly Weed', 'BOTANICAL': 'Asclepias tuberosa', 'ZONE': 'Annual', 'LIGHT': 'Sunny', 'PRICE': '$2.78', 'AVAILABILITY': '063099'}
+2023-03-26 16:51:15,316 - DEBUG - {'COMMON': 'Cinquefoil', 'BOTANICAL': 'Potentilla', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$7.06', 'AVAILABILITY': '052599'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Primrose', 'BOTANICAL': 'Oenothera', 'ZONE': '3 - 5', 'LIGHT': 'Sunny', 'PRICE': '$6.56', 'AVAILABILITY': '013099'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$7.81', 'AVAILABILITY': '051899'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Blue Gentian', 'BOTANICAL': 'Gentiana', 'ZONE': '4', 'LIGHT': 'Sun or Shade', 'PRICE': '$8.56', 'AVAILABILITY': '050299'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': "Jacob's Ladder", 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$9.26', 'AVAILABILITY': '022199'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Greek Valerian', 'BOTANICAL': 'Polemonium caeruleum', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$4.36', 'AVAILABILITY': '071499'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'California Poppy', 'BOTANICAL': 'Eschscholzia californica', 'ZONE': 'Annual', 'LIGHT': 'Sun', 'PRICE': '$7.89', 'AVAILABILITY': '032799'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Shooting Star', 'BOTANICAL': 'Dodecatheon', 'ZONE': 'Annual', 'LIGHT': 'Mostly Shady', 'PRICE': '$8.60', 'AVAILABILITY': '051399'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Snakeroot', 'BOTANICAL': 'Cimicifuga', 'ZONE': 'Annual', 'LIGHT': 'Shade', 'PRICE': '$5.63', 'AVAILABILITY': '071199'}
+2023-03-26 16:51:15,317 - DEBUG - {'COMMON': 'Cardinal Flower', 'BOTANICAL': 'Lobelia cardinalis', 'ZONE': '2', 'LIGHT': 'Shade', 'PRICE': '$3.02', 'AVAILABILITY': '022299'}
+2023-03-26 16:51:15,317 - INFO - Script finished
