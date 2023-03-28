@@ -25,8 +25,6 @@ def debug_log(log):
     logger_1.debug(log)
     logger_2.debug(log)
 
-def error_log(log):
-    logger_1.error(log)
-    logger_2.error(log)
+def exception_log(log):
     logger_1.exception(log)
     logger_2.exception(log)
